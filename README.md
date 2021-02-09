@@ -1,2 +1,2 @@
-# discord-dashboard
-A admin dashboard for discord-server
+# Fosscord-dashboard
+A admin dashboard for fosscord-server
